@@ -1,4 +1,4 @@
-const BASE = 'http://127.0.0.1:5000/api';
+const BASE = 'https://pharmadesk-ijjj.onrender.com/api';
 
 const authHeaders = () => ({
   'Content-Type': 'application/json',
